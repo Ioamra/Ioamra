@@ -1,3 +1,10 @@
+<style>
+  summary {
+    cursor: pointer;
+    font-size: 1.5em;
+  }
+</style>
+
 <h1 align="center">Hi, I'm Ioamra👋</h1>
 
 <p align="center">
@@ -18,7 +25,9 @@
   </a>
 </p>
 
-## Ma config VsCode
+<details>
+  <summary>Ma config VsCode</summary>
+  <br>
 
 <center>
 <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"><img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.4.0/1711025051911/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
@@ -94,3 +103,5 @@
   "docwriter.language": "English"
 }
 ```
+
+</details>
