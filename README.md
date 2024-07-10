@@ -6,9 +6,7 @@
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=ioamra" alt="ioamra" /></a> </p>
-
-### Languages and Tools:
-
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,php,mysql,postgres,py,java" alt="Languages"/>
@@ -21,8 +19,6 @@
 </p>
 
 ## Ma config VsCode
-
-### extentions :
 
 <center>
 <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"><img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.4.0/1711025051911/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
