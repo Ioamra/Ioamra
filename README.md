@@ -19,7 +19,7 @@
 </p>
 
 <details>
-  <summary><big><strong>Ma config VsCode</strong></big></summary>
+  <summary><strong>Ma config VsCode</strong></summary>
   <br>
 
   <p align="center">
@@ -35,7 +35,7 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview"><img src="https://simonsiefke.gallerycdn.vsassets.io/extensions/simonsiefke/svg-preview/2.8.3/1581688879196/Microsoft.VisualStudio.Services.Icons.Default" alt="svg preview" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client"><img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.24.12/1719475834395/Microsoft.VisualStudio.Services.Icons.Default" alt="thunder client" width="45" height="45"></a>
 
-### settings.json :
+<strong>settings.json :</strong>
 
 ```json
 {
