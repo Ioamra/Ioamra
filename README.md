@@ -19,7 +19,7 @@
 </p>
 
 <details>
-  <summary style="font-size:1.5em;"><strong>Ma config VsCode</strong></summary>
+  <summary><font size="4"><strong>Ma config VsCode</strong></font></summary>
   <br>
 
   <p align="center">
