@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=ioamra" alt="ioamra" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=ioamra" alt="ioamra" /></a> </p>
 
 ### Languages and Tools:
 
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## Ma config vsCode
+## Ma config VsCode
 
 ### extentions :
 
