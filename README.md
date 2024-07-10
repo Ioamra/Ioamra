@@ -19,10 +19,10 @@
 </p>
 
 <details>
-  <summary>Ma config VsCode</summary>
+  <summary style="font-size:1.5em;font-weight:bold;">Ma config VsCode</summary>
   <br>
 
-  <center>
+  <p style="display: flex; justify-content: center; gap: 0.8em;">
     <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"><img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.4.0/1711025051911/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag"><img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.10/1644319230173/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments"><img src="https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
@@ -34,7 +34,7 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors"><img src="https://yoavbls.gallerycdn.vsassets.io/extensions/yoavbls/pretty-ts-errors/0.5.4/1712534608793/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview"><img src="https://simonsiefke.gallerycdn.vsassets.io/extensions/simonsiefke/svg-preview/2.8.3/1581688879196/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client"><img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.24.12/1719475834395/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-  </center>
+  </p>
 
 ### settings.json :
 
