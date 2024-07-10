@@ -1,10 +1,3 @@
-<style>
-  summary {
-    cursor: pointer;
-    font-size: 1.5em;
-  }
-</style>
-
 <h1 align="center">Hi, I'm Ioamra👋</h1>
 
 <p align="center">
@@ -29,19 +22,19 @@
   <summary>Ma config VsCode</summary>
   <br>
 
-<center>
-<a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"><img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.4.0/1711025051911/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag"><img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.10/1644319230173/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments"><img src="https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr"><img src="https://ms-ceintl.gallerycdn.vsassets.io/extensions/ms-ceintl/vscode-language-pack-fr/1.91.2024070309/1719998324195/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph"><img src="https://mhutchie.gallerycdn.vsassets.io/extensions/mhutchie/git-graph/1.30.0/1617594001998/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass"><img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/live-sass/3.0.0/1531332580258/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"><img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=mintlify.document"><img src="https://mintlify.gallerycdn.vsassets.io/extensions/mintlify/document/2.2.2/1716293582777/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors"><img src="https://yoavbls.gallerycdn.vsassets.io/extensions/yoavbls/pretty-ts-errors/0.5.4/1712534608793/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview"><img src="https://simonsiefke.gallerycdn.vsassets.io/extensions/simonsiefke/svg-preview/2.8.3/1581688879196/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client"><img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.24.12/1719475834395/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
-</center>
+  <center>
+    <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"><img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.4.0/1711025051911/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag"><img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.10/1644319230173/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments"><img src="https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr"><img src="https://ms-ceintl.gallerycdn.vsassets.io/extensions/ms-ceintl/vscode-language-pack-fr/1.91.2024070309/1719998324195/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph"><img src="https://mhutchie.gallerycdn.vsassets.io/extensions/mhutchie/git-graph/1.30.0/1617594001998/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass"><img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/live-sass/3.0.0/1531332580258/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"><img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=mintlify.document"><img src="https://mintlify.gallerycdn.vsassets.io/extensions/mintlify/document/2.2.2/1716293582777/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors"><img src="https://yoavbls.gallerycdn.vsassets.io/extensions/yoavbls/pretty-ts-errors/0.5.4/1712534608793/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview"><img src="https://simonsiefke.gallerycdn.vsassets.io/extensions/simonsiefke/svg-preview/2.8.3/1581688879196/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client"><img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.24.12/1719475834395/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>
+  </center>
 
 ### settings.json :
 
