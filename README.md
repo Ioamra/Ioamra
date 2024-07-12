@@ -38,7 +38,8 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview"><img src="https://simonsiefke.gallerycdn.vsassets.io/extensions/simonsiefke/svg-preview/2.8.3/1581688879196/Microsoft.VisualStudio.Services.Icons.Default" alt="svg preview" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client"><img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.24.12/1719475834395/Microsoft.VisualStudio.Services.Icons.Default" alt="thunder client" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped"><img src="https://jeffersonlicet.gallerycdn.vsassets.io/extensions/jeffersonlicet/snipped/1.3.0/1664316301051/Microsoft.VisualStudio.Services.Icons.Default" alt="snipped" width="45" height="45"></a>&nbsp;&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=Angular.ng-template"><img src="https://angular.gallerycdn.vsassets.io/extensions/angular/ng-template/18.1.1/1720552716153/Microsoft.VisualStudio.Services.Icons.Default" alt="angular language service" width="45" height="45"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Angular.ng-template"><img src="https://angular.gallerycdn.vsassets.io/extensions/angular/ng-template/18.1.1/1720552716153/Microsoft.VisualStudio.Services.Icons.Default" alt="angular language service" width="45" height="45"></a>&nbsp;&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"><img src="https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/console-ninja/1.0.329/1720584130068/Microsoft.VisualStudio.Services.Icons.Default" alt="console ninja" width="45" height="45"></a>
 
 <strong>settings.json :</strong>
 
