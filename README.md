@@ -14,7 +14,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,nodejs" alt="Technologies"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,angular,react" alt="Technologies"/>
   </a>
 </p>
 
