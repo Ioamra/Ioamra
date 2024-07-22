@@ -85,7 +85,15 @@
         }
       },
       {
-        "scope": ["invalid", "keyword.operator", "constant.numeric.css", "keyword.other.unit.px.css", "constant.numeric.decimal.js", "constant.numeric.json", "comment.block"],
+        "scope": [
+          "invalid",
+          "keyword.operator",
+          "constant.numeric.css",
+          "keyword.other.unit.px.css",
+          "constant.numeric.decimal.js",
+          "constant.numeric.json",
+          "comment.block"
+        ],
         "settings": {
           "fontStyle": ""
         }
@@ -94,7 +102,7 @@
   },
   // for Prettier extention
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "prettier.printWidth": 175,
+  "prettier.printWidth": 150,
   // for Path Intellisense extention
   "typescript.suggest.paths": false,
   "javascript.suggest.paths": false,
