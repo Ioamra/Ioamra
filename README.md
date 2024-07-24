@@ -53,19 +53,17 @@
 
 ```json
 {
-  "files.autoSave": "onFocusChange",
-  "git.confirmSync": false,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "editor.wordWrap": "on",
   "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "git.confirmSync": false,
   "editor.formatOnSave": true,
   "explorer.confirmDelete": false,
+  "files.autoSave": "onFocusChange",
   "explorer.confirmDragAndDrop": false,
-  "editor.codeActionsOnSave": {
-    "source.organizeImports": "always"
-  },
-  // mordern dark litle more dark
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.codeActionsOnSave": { "source.organizeImports": "always" },
+  // darker modern dark theme
   "workbench.colorCustomizations": {
     "activityBar.background": "#131313",
     "debugToolBar.background": "#131313",
@@ -127,17 +125,19 @@
       }
     ]
   },
-  // for Prettier extention
+  // ** EXTENTION **
+  // Prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.printWidth": 150,
-  // for Path Intellisense extention
+  // Path Intellisense
   "typescript.suggest.paths": false,
   "javascript.suggest.paths": false,
-  // for Mintlify Doc Writer extention
+  // Mintlify Doc Writer
   "docwriter.language": "French",
-  // for console ninja extention
+  "terminal.integrated.env.windows": {},
+  // console ninja
   "console-ninja.featureSet": "Community",
-  // for live server extention
+  // live server
   "liveServer.settings.donotShowInfoMsg": true
 }
 ```
