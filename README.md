@@ -14,7 +14,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,angular,react" alt="Technologies"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,angular,nestjs,jest" alt="Technologies"/>
   </a>
 </p>
 
@@ -37,6 +37,8 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv"><img src="https://mikestead.gallerycdn.vsassets.io/extensions/mikestead/dotenv/1.0.1/1519894859412/Microsoft.VisualStudio.Services.Icons.Default" alt="dotENV" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"><img src="https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/console-ninja/1.0.329/1720584130068/Microsoft.VisualStudio.Services.Icons.Default" alt="console ninja" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=codeandstuff.package-json-upgrade"><img src="https://codeandstuff.gallerycdn.vsassets.io/extensions/codeandstuff/package-json-upgrade/2.1.2/1700146950962/Microsoft.VisualStudio.Services.Icons.Default" alt="package json upgrade" width="45" height="45"></a>&nbsp;&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=ebrithil30.vscode-ts-auto-return-type"><img src="https://cdn.vsassets.io/v/M242_20240717.2/_content/Header/default_icon_128.png" alt="TsAutoReturnType" width="45" height="45"></a>&nbsp;&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest"><img src="https://orta.gallerycdn.vsassets.io/extensions/orta/vscode-jest/6.2.5/1714761795526/Microsoft.VisualStudio.Services.Icons.Default" alt="jest" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors"><img src="https://yoavbls.gallerycdn.vsassets.io/extensions/yoavbls/pretty-ts-errors/0.5.4/1712534608793/Microsoft.VisualStudio.Services.Icons.Default" alt="pretty ts errors" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=steoates.autoimport"><img src="https://steoates.gallerycdn.vsassets.io/extensions/steoates/autoimport/1.5.4/1618500754212/Microsoft.VisualStudio.Services.Icons.Default" alt="auto import" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph"><img src="https://mhutchie.gallerycdn.vsassets.io/extensions/mhutchie/git-graph/1.30.0/1617594001998/Microsoft.VisualStudio.Services.Icons.Default" alt="git graph" width="45" height="45"></a>&nbsp;&nbsp;
@@ -63,7 +65,32 @@
   "editor.codeActionsOnSave": {
     "source.organizeImports": "always"
   },
-  "workbench.colorCustomizations": {},
+  // mordern dark litle more dark
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#131313",
+    "debugToolBar.background": "#131313",
+    "editorGroupHeader.tabsBackground": "#131313",
+    "panel.background": "#131313",
+    "sideBar.background": "#131313",
+    "sideBarSectionHeader.background": "#131313",
+    "statusBar.background": "#131313",
+    "tab.inactiveBackground": "#131313",
+    "titleBar.activeBackground": "#131313",
+    "dropdown.listBackground": "#191919",
+    "editor.background": "#191919",
+    "menu.background": "#191919",
+    "notificationCenterHeader.background": "#191919",
+    "notifications.background": "#191919",
+    "peekViewEditor.background": "#191919",
+    "peekViewResult.background": "#191919",
+    "statusBar.noFolderBackground": "#191919",
+    "tab.activeBackground": "#191919",
+    "tab.activeBorder": "#191919",
+    "tab.hoverBackground": "#191919",
+    "tab.unfocusedActiveBorder": "#191919",
+    "tab.unfocusedHoverBackground": "#191919",
+    "titleBar.inactiveBackground": "#191919"
+  },
   // italic text
   "editor.tokenColorCustomizations": {
     "textMateRules": [
@@ -108,9 +135,9 @@
   "javascript.suggest.paths": false,
   // for Mintlify Doc Writer extention
   "docwriter.language": "French",
-  "terminal.integrated.env.windows": {},
   // for console ninja extention
   "console-ninja.featureSet": "Community",
+  // for live server extention
   "liveServer.settings.donotShowInfoMsg": true
 }
 ```
