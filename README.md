@@ -24,6 +24,7 @@
 
   <p align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager"><img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/project-manager/12.8.0/1711736277737/Microsoft.VisualStudio.Services.Icons.Default" alt="Project Manager" width="45" height="45"></a>&nbsp;&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"><img src="https://pkief.gallerycdn.vsassets.io/extensions/pkief/material-icon-theme/5.8.0/1721852676544/Microsoft.VisualStudio.Services.Icons.Default" alt="Material Icon Theme" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr"><img src="https://ms-ceintl.gallerycdn.vsassets.io/extensions/ms-ceintl/vscode-language-pack-fr/1.91.2024070309/1719998324195/Microsoft.VisualStudio.Services.Icons.Default" alt="french languague" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"><img src="https://postman.gallerycdn.vsassets.io/extensions/postman/postman-for-vscode/1.1.0/1719305837729/Microsoft.VisualStudio.Services.Icons.Default" alt="ESlint" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"><img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.4.0/1711025051911/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>&nbsp;&nbsp;
@@ -67,6 +68,7 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.codeActionsOnSave": { "source.organizeImports": "always" },
+  "terminal.integrated.env.windows": {},
   // darker modern dark theme
   "workbench.colorCustomizations": {
     "activityBar.activeBorder": "#008327",
@@ -160,11 +162,109 @@
   "javascript.suggest.paths": false,
   // Mintlify Doc Writer
   "docwriter.language": "French",
-  "terminal.integrated.env.windows": {},
   // console ninja
   "console-ninja.featureSet": "Community",
   // live server
-  "liveServer.settings.donotShowInfoMsg": true
+  "liveServer.settings.donotShowInfoMsg": true,
+  // Code Spell Checker
+  "cSpell.userWords": ["typeorm"],
+  // Material icon theme
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.files.customClones": [
+    {
+      "name": "controller",
+      "base": "nest",
+      "color": "blue-400",
+      "fileExtensions": ["controller.ts"]
+    },
+    {
+      "name": "controller-spec",
+      "base": "test-ts",
+      "color": "blue-400",
+      "fileExtensions": ["controller.spec.ts"]
+    },
+    {
+      "name": "service-spec",
+      "base": "test-ts",
+      "color": "yellow-700",
+      "fileExtensions": ["service.spec.ts"]
+    },
+    {
+      "name": "dto",
+      "base": "nest",
+      "color": "cyan-400",
+      "fileExtensions": ["dto.ts"]
+    },
+    {
+      "name": "entity",
+      "base": "nest",
+      "color": "green-400",
+      "fileExtensions": ["entity.ts"]
+    },
+    {
+      "name": "model_enum_interface_type",
+      "base": "typescript-def",
+      "color": "green-500",
+      "fileExtensions": ["model.ts", "models.ts", "enum.ts", "enums.ts", "interface.ts", "interfaces.ts", "type.ts", "types.ts"]
+    },
+    {
+      "name": "resolver",
+      "base": "angular",
+      "color": "purple-500",
+      "fileExtensions": ["resolver.ts", "resolvers.ts"]
+    },
+    {
+      "name": "config",
+      "base": "settings",
+      "color": "light-blue-400",
+      "fileExtensions": ["config.ts"],
+      "fileNames": ["config.ts"]
+    },
+    {
+      "name": "middleware",
+      "base": "typescript",
+      "color": "#5b73ff",
+      "fileExtensions": ["middleware.ts"]
+    },
+    {
+      "name": "middlewareConfig",
+      "base": "settings",
+      "color": "#5b73ff",
+      "fileNames": ["middleware.config.ts"]
+    }
+  ],
+  "material-icon-theme.folders.customClones": [
+    {
+      "name": "models_entities_enum-folder",
+      "base": "class",
+      "color": "green-500",
+      "folderNames": ["model", "models", "enum", "entities"]
+    },
+    {
+      "name": "resolvers-folder",
+      "base": "class",
+      "color": "purple-500",
+      "folderNames": ["resolvers"]
+    },
+    {
+      "name": "dto-folder",
+      "base": "class",
+      "color": "cyan-400",
+      "folderNames": ["dto"]
+    },
+    {
+      "name": "components-folder",
+      "base": "components",
+      "color": "blue-500",
+      "folderNames": ["components"]
+    },
+    {
+      "name": "configs-folder",
+      "base": "config",
+      "color": "light-blue-500",
+      "folderNames": ["config", "configs"]
+    }
+  ]
 }
 ```
 
