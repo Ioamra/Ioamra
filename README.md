@@ -203,7 +203,7 @@
     },
     {
       "name": "model_enum_interface_type",
-      "base": "typescript-def",
+      "base": "typescript",
       "color": "green-500",
       "fileExtensions": ["model.ts", "models.ts", "enum.ts", "enums.ts", "interface.ts", "interfaces.ts", "type.ts", "types.ts"]
     },
