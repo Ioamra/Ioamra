@@ -163,6 +163,7 @@
   "javascript.suggest.paths": false,
   // Mintlify Doc Writer
   "docwriter.language": "French",
+  "docwriter.hotkey.windows": "Alt + .",
   // console ninja
   "console-ninja.featureSet": "Community",
   // live server
