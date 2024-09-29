@@ -169,7 +169,7 @@
   // live server
   "liveServer.settings.donotShowInfoMsg": true,
   // Code Spell Checker
-  "cSpell.userWords": ["typeorm"],
+  "cSpell.userWords": ["fastify", "typeorm"],
   // Material icon theme
   "workbench.iconTheme": "material-icon-theme",
   "material-icon-theme.files.customClones": [
@@ -233,6 +233,12 @@
       "base": "settings",
       "color": "#5b73ff",
       "fileNames": ["middleware.config.ts"]
+    },
+    {
+      "name": "interceptor",
+      "base": "settings",
+      "color": "red-400",
+      "fileNames": ["interceptor.ts"]
     }
   ],
   "material-icon-theme.folders.customClones": [
@@ -265,6 +271,12 @@
       "base": "config",
       "color": "light-blue-500",
       "folderNames": ["config", "configs"]
+    },
+    {
+      "name": "interceptor-folder",
+      "base": "config",
+      "color": "red-400",
+      "folderNames": ["interceptor", "interceptors"]
     }
   ]
 }
