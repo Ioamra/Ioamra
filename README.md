@@ -26,6 +26,7 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager"><img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/project-manager/12.8.0/1711736277737/Microsoft.VisualStudio.Services.Icons.Default" alt="Project Manager" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"><img src="https://pkief.gallerycdn.vsassets.io/extensions/pkief/material-icon-theme/5.8.0/1721852676544/Microsoft.VisualStudio.Services.Icons.Default" alt="Material Icon Theme" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr"><img src="https://ms-ceintl.gallerycdn.vsassets.io/extensions/ms-ceintl/vscode-language-pack-fr/1.91.2024070309/1719998324195/Microsoft.VisualStudio.Services.Icons.Default" alt="french languague" width="45" height="45"></a>&nbsp;&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"><img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.234.1127/1727400970961/Microsoft.VisualStudio.Services.Icons.Default" alt="GitHub Copilot" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"><img src="https://postman.gallerycdn.vsassets.io/extensions/postman/postman-for-vscode/1.1.0/1719305837729/Microsoft.VisualStudio.Services.Icons.Default" alt="ESlint" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"><img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.4.0/1711025051911/Microsoft.VisualStudio.Services.Icons.Default" alt="prettier" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"><img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/3.0.11/1720444131559/Microsoft.VisualStudio.Services.Icons.Default" alt="ESlint" width="45" height="45"></a>&nbsp;&nbsp;
@@ -53,7 +54,6 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass"><img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/live-sass/3.0.0/1531332580258/Microsoft.VisualStudio.Services.Icons.Default" alt="live sass" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"><img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Services.Icons.Default" alt="liveserver" width="45" height="45"></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=Angular.ng-template"><img src="https://angular.gallerycdn.vsassets.io/extensions/angular/ng-template/18.1.1/1720552716153/Microsoft.VisualStudio.Services.Icons.Default" alt="angular language service" width="45" height="45"></a>&nbsp;&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=mintlify.document"><img src="https://mintlify.gallerycdn.vsassets.io/extensions/mintlify/document/2.2.2/1716293582777/Microsoft.VisualStudio.Services.Icons.Default" alt="mintlify " width="45" height="45"></a>
 
 <strong>settings.json :</strong>
 
@@ -161,9 +161,6 @@
   // Path Intellisense
   "typescript.suggest.paths": false,
   "javascript.suggest.paths": false,
-  // Mintlify Doc Writer
-  "docwriter.language": "French",
-  "docwriter.hotkey.windows": "Alt + .",
   // console ninja
   "console-ninja.featureSet": "Community",
   // live server
